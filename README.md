@@ -13,5 +13,7 @@ Methods: Analyze the sales as well as the items that were sold and draw connecti
 Results: To be determined
 
 Data Source - From the SquareUp sales dashboard
-  ‘Transactions CSV’ contains detailed payment method data for each transaction. Includes data regarding when, how, and who the payments were made by in addition to card processing fees and discounts. Relative fields include: ‘Date’, ‘Time’, ‘Gross Sales’, ‘Discounts’, ‘Net Sales’, ‘Tax’, ‘Tip’, ‘Refunds’, ‘PAN’, ‘Card Entry Method’, ‘Fees’, ‘Fee Percentage Rate’, ‘Fee Fixed’, ‘Customer ID’, and ‘Customer Name’. Row Count: 105,191
-  ‘Items Details CSV’ contains data pertaining to the items sold. Fields of interest include: ‘Date’, ‘Time’, ‘Category’, ‘Item’, ‘Qty’, ‘Price Point Name’ or Size, ‘Modifiers’, ‘Customer ID’. Row Count: 133,584
+
+‘Transactions CSV’ contains detailed payment method data for each transaction. Includes data regarding when, how, and who the payments were made by in addition to card processing fees and discounts. Relative fields include: ‘Date’, ‘Time’, ‘Gross Sales’, ‘Discounts’, ‘Net Sales’, ‘Tax’, ‘Tip’, ‘Refunds’, ‘PAN’, ‘Card Entry Method’, ‘Fees’, ‘Fee Percentage Rate’, ‘Fee Fixed’, ‘Customer ID’, and ‘Customer Name’. Row Count: 105,191
+
+‘Items Details CSV’ contains data pertaining to the items sold. Fields of interest include: ‘Date’, ‘Time’, ‘Category’, ‘Item’, ‘Qty’, ‘Price Point Name’ or Size, ‘Modifiers’, ‘Customer ID’. Row Count: 133,584
