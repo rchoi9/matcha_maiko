@@ -9,6 +9,7 @@ In this project, I hope to quantify the growth we've had during difficult pandem
 Objective: To present to business owners and stakeholders a comprehensive view on how the business has grown from 2019 to 2022 as well as attempt to present a predictive analysis on how sales will grow.
 
 Methods: Analyze the sales as well as the items that were sold and draw connections to the year, season, menu items, and regulars to help provide insight. Utilize the Analytics features on tableau to show trendlines and forecasts.
+
 Results: To be determined
 
 Data Source - From the SquareUp sales dashboard
